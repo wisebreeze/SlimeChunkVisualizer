@@ -1,6 +1,6 @@
 # 史莱姆区块可视化工具
 
-[![许可证: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![许可证: MPL-2.0](https://img.shields.io/badge/License-MPL-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Go 版本](https://img.shields.io/badge/Go-1.16+-blue.svg)](https://golang.org/)
 [![平台](https://img.shields.io/badge/platform-Android%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com)
 
